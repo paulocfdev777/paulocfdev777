@@ -1,6 +1,6 @@
 # Olá, sou o Paulo César! 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia e focado em construir soluções eficientes.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FICR! Sou apaixonado por tecnologia, games e focado em construir soluções!
 
 ### 🎓 Tecnologias que estou estudando:
 <div align="left">
@@ -11,15 +11,17 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnol
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+---
 
 ### 🛠 Ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
 
+---
 
 ### 📊 GitHub Stats
 ![Estatísticas do Paulo](https://github-readme-stats.vercel.app/api?username=paulocfdev777&show_icons=true&theme=radical)
