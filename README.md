@@ -1,4 +1,4 @@
-# Olá, sou o Paulo César! 👋
+# Olá, sou Paulo César! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FICR! Sou apaixonado por tecnologia, games e focado em construir soluções!
 
