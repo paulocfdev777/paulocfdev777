@@ -20,11 +20,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FICR! Sou apaixonad
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
-
----
-
-### 📊 GitHub Stats
-![Estatísticas do Paulo](https://github-readme-stats.vercel.app/api?username=paulocfdev777&show_icons=true&theme=radical)
-
-### 📈 Most Used Languages
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulocfdev777&layout=compact&theme=radical)
