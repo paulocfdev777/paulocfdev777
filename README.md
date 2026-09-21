@@ -6,7 +6,11 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
 
 ---
 
-### 🚀 What I do - 🎓 Studying Systems Analysis and Development (ADS) at FICR - 💻 Building front-end applications and digital solutions - 💡 Exploring and applying new technologies to solve real-world problems ---
+### 🚀 What I do 
+- 🎓 Studying Systems Analysis and Development (ADS) at FICR
+- 💻 Building front-end applications and digital solutions
+- 💡 Exploring and applying new technologies to solve real-world problems
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
