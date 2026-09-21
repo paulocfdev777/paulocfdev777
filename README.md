@@ -22,7 +22,9 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
   <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
 
+
 ***🎓 Currently Studying***
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
