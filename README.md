@@ -38,9 +38,9 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
 
 ## 🌎 Connect with me
 
-gmail.com; paulo.cfdev@gmail.com
-instagram; pauloczads
-linkedin; www.linkedin.com/in/paulocfdev
+- gmail.com; paulo.cfdev@gmail.com
+- instagram; pauloczads
+- linkedin; www.linkedin.com/in/paulocfdev
 
 
 
