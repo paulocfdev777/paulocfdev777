@@ -14,8 +14,15 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
 ---
 
 ### 🛠️ Technologies & Tools
-***🎓 Currently Studying***
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</div>
+
+***🎓 Currently Studying***
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,9 +34,11 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
 
 ---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-d97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</div>
+## 🌎 Connect with me
+
+### gmail.com; paulo.cfdev@gmail.com
+### instagram; pauloczads
+### linkedin; www.linkedin.com/in/paulocfdev
+
+
+
