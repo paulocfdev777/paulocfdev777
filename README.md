@@ -17,6 +17,7 @@ Hi! I'm Paulo, a Systems Analysis and Development (ADS) student at FICR from Bra
 - 💡 Exploring and applying new technologies to solve real-world problems
 
 <img src="./assets/rgb.gif" width="30%">
+
 ### 🛠️ Technologies & Tools
 
 <div align="left">
