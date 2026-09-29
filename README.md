@@ -1,11 +1,6 @@
 <div align="center">
   <img src="./assets/gengarrr.jpg" width="100%">
 </div>
-
-<div align="center">
-  <img src="./assets/rgb.gif" width="100%">
-</div>
-
 <br>
 
 # Hi! I'm Paulo César 👋
